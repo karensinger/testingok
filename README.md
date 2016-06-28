@@ -1,0 +1,3 @@
+# testingok
+
+To publish sns
